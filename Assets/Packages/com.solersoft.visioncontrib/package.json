@@ -5,7 +5,8 @@
 	"description": "Contrib Library for Vision OS.",
 	"unity": "2022.3",
 	"dependencies": {
-
+		"com.unity.inputsystem": "1.7.0",
+		"com.unity.textmeshpro": "3.0.7"
 	},
 	"keywords": [
 		"vision"

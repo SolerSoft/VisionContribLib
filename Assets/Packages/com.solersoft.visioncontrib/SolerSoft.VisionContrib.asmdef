@@ -1,0 +1,14 @@
+{
+    "name": "SolerSoft.Interatic",
+    "rootNamespace": "SolerSoft.Interatic",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

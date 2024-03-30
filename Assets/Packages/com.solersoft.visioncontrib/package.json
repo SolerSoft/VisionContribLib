@@ -1,13 +1,13 @@
 {
 	"name": "com.solersoft.visioncontrib",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"displayName": "Vision Contrib",
 	"description": "Contrib Library for Vision OS.",
 	"unity": "2022.3",
 	"dependencies": {
 		"com.unity.inputsystem": "1.7.0",
 		"com.unity.textmeshpro": "3.0.7",
-		"com.unity.xr.interaction.toolkit": "2.5.3"
+		"com.unity.xr.interaction.toolkit": "2.5.2"
 	},
 	"keywords": [
 		"vision"
